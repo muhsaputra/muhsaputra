@@ -51,9 +51,7 @@ Sejak kecil saya sudah tertarik dengan teknologi, dan sekarang saya mengembangka
 ---
 
 ### 🚀 Proyek Unggulan
-- [🌐 Portfolio Website](https://muhsaputra.github.io) - Website portofolio pribadi.
-- [📌 LostVayne 6](https://github.com/muhsaputra/lostvayne-muhsaputra) - Project HTML & CSS.
-- [⚡ Project-4](https://github.com/muhsaputra/Project-4) - Eksperimen React.js.
+...
 
 ---
 
