@@ -5,8 +5,7 @@
 ---
 
 ### 👨‍💻 Tentang Saya
-Saya adalah seorang **Frontend Developer** dari Indonesia yang berfokus pada pembuatan aplikasi web yang responsif, modern, dan ramah pengguna.  
-Sejak kecil saya sudah tertarik dengan teknologi, dan sekarang saya mengembangkan keahlian saya di dunia **pengembangan web**.
+Saya adalah seorang **Frontend Developer** dari Indonesia yang berfokus pada pembuatan aplikasi web yang responsif, modern, dan ramah pengguna. Sejak kecil saya sudah tertarik dengan teknologi, dan sekarang saya mengembangkan keahlian saya di dunia **pengembangan web**.
 
 - 🌱 Sedang mempelajari **React.js** & **Node.js**
 - 💼 Portofolio: *(tambahkan link portofolio di sini)*
