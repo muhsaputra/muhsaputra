@@ -17,10 +17,10 @@ Sejak kecil saya sudah tertarik dengan teknologi, dan sekarang saya mengembangka
 
 ### 🌐 Terhubung dengan Saya
 <p align="left">
-  <a href="https://linkedin.com/in/username" target="_blank">
+  <a href="[https://linkedin.com/in/username](https://www.linkedin.com/in/muhamad-tri-saputra/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/username" target="_blank">
+  <a href="https://instagram.com/muhsaputra._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
