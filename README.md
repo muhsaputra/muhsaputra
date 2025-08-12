@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Tentang Saya
-Saya adalah seorang **Frontend Developer** dari Indonesia yang berfokus pada pembuatan aplikasi web yang responsif, modern, dan ramah pengguna. Sejak kecil saya sudah tertarik dengan teknologi, dan sekarang saya mengembangkan keahlian saya di dunia **pengembangan web**.
+Halo! Saya Muhamad Tri Saputra, seorang developer dengan keahlian di bidang Web Development, Backend, Frontend. Saya suka membangun proyek yang inovatif dan efisien menggunakan teknologi seperti, JavaScript, React, Node.js, Express Js. Di GitHub ini, saya membagikan berbagai proyek pribadi, kontribusi open source, dan eksperimen coding saya. Mari kita belajar dan berkembang bersama!
 
 - 🌱 Sedang mempelajari **React.js** & **Node.js**
 - 💼 Portofolio: *(tambahkan link portofolio di sini)*
