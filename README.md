@@ -2,6 +2,8 @@
 <h1 align="center">👋 Halo, Saya Muhamad Tri Saputra</h1>
 <h3 align="center">Frontend Developer | Backend Developer | Javascript Anthusiast </h3>
 
+![Image](https://github.com/user-attachments/assets/f7ae225c-ab62-4968-8174-e06a3f14d689)
+
 ---
 
 ### 👨‍💻 Tentang Saya
