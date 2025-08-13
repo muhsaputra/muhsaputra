@@ -10,7 +10,7 @@
 ### 👨‍💻 Tentang Saya
 Halo! Saya Muhamad Tri Saputra, seorang developer dengan keahlian di bidang Web Development, Backend, Frontend. Saya suka membangun proyek yang inovatif dan efisien menggunakan teknologi seperti, JavaScript, React, Node.js, Express Js. Di GitHub ini, saya membagikan berbagai proyek pribadi, kontribusi open source, dan eksperimen coding saya. Mari kita belajar dan berkembang bersama!
 
-- 🌱 Sedang mempelajari **React.js** & **Node.js**
+- 🌱 Sedang memperdalam **React.js** & **Node.js**
 - 💼 Portofolio: *(tambahkan link portofolio di sini)*
 - 📫 Email: **muhsaputrabiz@gmail.com**
 - ⚡ Fun fact: Saya suka bereksperimen dengan teknologi baru dan membuat proyek mini untuk belajar.
