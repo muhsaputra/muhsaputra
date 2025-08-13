@@ -2,7 +2,7 @@
 
 <!-- Profil Header -->
 <h1 align="center">👋 Halo, Saya Muhamad Tri Saputra</h1>
-<h3 align="center">Frontend Developer | Backend Developer | Javascript Anthusiast </h3>
+<h3 align="center">Frontend Developer | Backend Developer | Javascript Enthusiast </h3>
 
 
 ---
